@@ -106,5 +106,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/connect-hamza24/)
+- LinkedIn: [Ali Hamza](https://www.linkedin.com/in/connect-hamza24/)
